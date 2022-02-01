@@ -44,6 +44,7 @@ class NoteListState extends State<NoteList> {
     );
   }
 
+
   ListView getNoteListItem() {
     TextStyle? titlestyle = Theme.of(context).textTheme.subtitle1;
 
